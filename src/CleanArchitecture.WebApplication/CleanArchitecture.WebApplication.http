@@ -1,0 +1,6 @@
+@CleanArchitecture.WebApplication_HostAddress = http://localhost:5276
+
+GET {{CleanArchitecture.WebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
